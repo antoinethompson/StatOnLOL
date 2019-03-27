@@ -1,2 +1,2 @@
-application/Application.class
-application/GreetingController.class
+controller/GreetingController.class
+controller/SubmitController.class
