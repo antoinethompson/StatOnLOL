@@ -6,6 +6,6 @@ Implementation-Version: 0.0.1-SNAPSHOT
 Implementation-Vendor-Id: com.leagueoflegends.appli
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
  -starter-parent/StatOnLOL
-Main-Class: main.Application
+Main-Class: com.leagueoflegends.Application
 Created-By: Maven Integration for Eclipse
 

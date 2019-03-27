@@ -1,3 +1,3 @@
-/Workspace/StatOnLOL/src/main/java/main/Application.java
-/Workspace/StatOnLOL/src/main/java/controller/GreetingController.java
-/Workspace/StatOnLOL/src/main/java/controller/SubmitController.java
+/Workspace/StatOnLOL/src/main/java/com/leagueoflegends/Application.java
+/Workspace/StatOnLOL/src/main/java/com/leagueoflegends/controller/SubmitController.java
+/Workspace/StatOnLOL/src/main/java/com/leagueoflegends/controller/GreetingController.java
